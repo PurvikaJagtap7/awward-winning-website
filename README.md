@@ -16,7 +16,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 💡 [Additional](#additional-notes)
+5. 🌐 [Snippets of live website](#live-website)
+6. 💡 [Additional](#additional-notes) 
 
 ## ⚠️ Disclaimer
 
@@ -88,6 +89,13 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+## <a name="live-website">🌐 Snippets of live website</a>
+
+<img src="./public/website-snippets/homepage.png" alt="Home-Page" width="500"/>
+<img src="./public/website-snippets/content.png" alt="Home-Page" width="500"/>
+<img src="./public/website-snippets/descriptive.png" alt="Home-Page" width="500"/>
+<img src="./public/website-snippets/footer.png" alt="Home-Page" width="500"/>
 
 ## <a name="additional-notes">💡 Additional Notes</a>
 
